@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    tools:context=".GeneratorActivity">
+    
+    <EditText
+        android:id="@+id/esit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="171dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="110dp"
+        android:layout_marginEnd="112dp"
+        android:layout_below="@+id/esit_text"
+        android:layout_marginTop="59dp"
+        android:text="Generate" />
+
+    <Button
+        android:id="@+id/button_save"
+        android:layout_width="171dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="110dp"
+        android:layout_marginEnd="112dp"
+        android:layout_below="@+id/button"
+        android:layout_marginTop="59dp"
+        android:text="Save" />
+    
+    <ImageView
+        android:id="@+id/qr_code"
+        android:layout_width="match_parent"
+        android:layout_height="570dp"
+        android:layout_below="@+id/button_save"
+        android:layout_marginTop="15dp"
+        android:scaleType="fitCenter"/>
+
+</RelativeLayout>

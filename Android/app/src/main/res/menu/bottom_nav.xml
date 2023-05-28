@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="home"
+        android:icon="@drawable/home"
+        android:descendantFocusability = "blocksDescendants"
+        android:focusable="false"/>
+    <item
+        android:id="@+id/gift_tracker"
+        android:title="gift tracker"
+        android:icon="@drawable/gift_tracker"
+        android:descendantFocusability = "blocksDescendants"
+        android:focusable="false"/>
+    <item
+        android:id="@+id/qr_code"
+        android:title="QR code"
+        android:icon="@drawable/qr_code"
+        android:descendantFocusability = "blocksDescendants"
+        android:focusable="false"/>
+</menu>

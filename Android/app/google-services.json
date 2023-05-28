@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972809540443",
+    "project_id": "wedding-registry-2023",
+    "storage_bucket": "wedding-registry-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972809540443:android:3c30fd6d9bc123f014407e",
+        "android_client_info": {
+          "package_name": "com.pianoendo.weddingregistry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972809540443-q4mlfbrjeanspq7mb22k6gbl1gsbaq1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ezIp4kIMjI3EgVi3IPuruvYUVfk7zJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972809540443-q4mlfbrjeanspq7mb22k6gbl1gsbaq1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wedding Registry</string>
+    <string name="button_login">Log in</string>
+    <string name="button_signup">Sign up</string>
+    <string name="greeting_signup">Welcome</string>
+    <string name="greeting_login">Welcome Back</string>
+    <string name="edittext_first_name">first name</string>
+    <string name="edittext_last_name">last name</string>
+    <string name="edittext_email_address">email address</string>
+    <string name="edittext_password">password</string>
+    <string name="button_add">add</string>
+</resources>
